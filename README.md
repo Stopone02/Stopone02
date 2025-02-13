@@ -1,8 +1,9 @@
 <div align="center">
-  <h2> 👋 Visiter,,, 👋 </h2>
+  <h3> 👋 Visiter,,, 👋 </h3>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStopone02&count_bg=%23FFC4FD&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 <p align="center">
-  <h2> :mag: I'm,,, :mag:</h2>
+  </p></br>
+  <h3> :mag: I'm,,, :mag:</h3>
   <p>제1전공 바이오메디컬화학공학과(BMCE)</p>
   <p>제2전공 인공지능학과(AI)</p>
 </p>

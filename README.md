@@ -24,4 +24,12 @@
 |가톨릭대학교 & 코드하나|디지털교육 인재양성 프로그램|2024.10~2024.12|수료|
 |인실리코젠|인코인턴십|2025.01~2025.02|수료|
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Stopone02&utm_content=farm">
+  </br></br>
+<img
+  src="https://render.gitanimals.org/farms/Stopone02"
+  width="500"
+  height="300"
+/>
+</a>
 </div>
